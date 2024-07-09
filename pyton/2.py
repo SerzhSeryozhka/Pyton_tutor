@@ -5,5 +5,5 @@
 # c = input("Введите фамилию: ")
 # print(Name, c)
 num = 10
-numb =int (input("Введите число: " ))
-print ("Ответ: ", num+numb)
+numb =float (input("Введите число: " ))
+print ("Ответ: ", (num+numb)/2)
