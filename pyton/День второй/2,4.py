@@ -23,3 +23,9 @@ m=m.replace('[','')
 m=m.replace(']','')
 m=m.replace("'",'')
 print(m)
+# Альтернатива решения задачи 4
+n="erik@mail.ru"
+m=n.split("@")
+m=" ".join(m)
+m=m.split(".")
+print(" ".join(m))
