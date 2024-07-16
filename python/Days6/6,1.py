@@ -1,5 +1,5 @@
 words = ['apple','banana','banana','apple','watermelon','melon']
-print(word_freq)
+print(words)
 word_freq = [words.count(w) for w in words]
 frequencies=set(zip(words, word_freq))
 print(frequencies)

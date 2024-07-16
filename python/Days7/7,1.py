@@ -1,0 +1,12 @@
+# q = input()
+# print(q)
+# q =q.split()
+# print(q)
+# w = set(q)
+# print(w)
+nums = [1,1,2,3,2,4,4,5,4,5]
+nums = set(nums)
+nums = len(nums)
+print(nums)
+# print(set(nums))
+# print(len(set(nums)))
