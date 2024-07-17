@@ -1,0 +1,2 @@
+q = all()
+print(q)
