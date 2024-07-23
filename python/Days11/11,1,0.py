@@ -56,3 +56,4 @@ def gen_tab(a):
         print(f'{a} x {q} = {a*q}' )
         q+=1
 gen_tab(2)
+gen_tab(9)
